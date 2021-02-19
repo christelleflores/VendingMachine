@@ -5,7 +5,7 @@ public class VendingMAchine {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		
-		System.out.println("Welcome to our Vending Machine. Please select the snack number you wish to buy:");
+		System.out.println("Welcome to Humna and Christelle's Vending Machine. Please select the snack number you wish to buy:");
 		System.out.println(
 				" 1. Snicker Bar \n 2. Pop-Tarts \n 3. Sun Chips \n 4. Nacho Doritos \n 5. Pretzels \n 6. Cheetos \n 7. Popcorn");
 
